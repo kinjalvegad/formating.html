@@ -16,7 +16,7 @@
 	 <th>roll no.</th>
          <th>parents name </th>
 	 <th>contact</th>
-	 <th>pin-code</th>
+	 
 	  <th>parents contact</th>
 	   <th>email</th>
 	   
@@ -30,7 +30,7 @@
 	   <td>101</td>
           <td>Mahesh bhai</td>
 	   <td>8888877777</td>
-	   <td>360531</td>
+	   
 	   <td>7878787878</td>
 	   <td>kinjal02@gmail.com</td>
 	  </tr>
@@ -43,7 +43,7 @@
      <td>102</td>
      <td>Manish bhai<\td>	 
 	 <td>8998989898</td>
-     <td>369852</td>
+     
      <td>9638527410</td>
      <td>khushi02@gmail.com</td>
    </tr>
@@ -56,7 +56,7 @@
      <td>103</td>
      <td>amrut bhai</td> 
 	 <td>8898989878</td>
-     <td>369892</td>
+     
      <td>9685227410</td>
      <td>niv04@gmail.com</td>
    </tr> 	 
@@ -69,7 +69,7 @@
      <td>104</td>
       <td>jaman bhai</td>	 
 	 <td>7575757575</td>
-     <td>369852</td>
+     
      <td>9638598867</td>
      <td>bhumi07@gmail.com</td>
    </tr> 	 
@@ -82,7 +82,7 @@
      <td>105</td>
      <td>kishan bhai</td>	 
 	 <td>8998875787</td>
-     <td>3690022</td>
+     
      <td>9638595959</td>
      <td>nisha02@gmail.com</td>
    </tr> 	 
@@ -95,7 +95,7 @@
      <td>106</td>
     <td>kaushal bhai</td>	 
 	 <td>8998981238</td>
-     <td>369812</td>
+     
      <td>9638512310</td>
      <td>avni02@gmail.com</td>
    </tr> 	 
@@ -109,7 +109,7 @@
      <td>107</td>
    <td>	Sagar bhai</td> 
 	 <td>8912349898</td>
-     <td>369822</td>
+     
      <td>9638527000</td>
      <td>aarti02@gmail.com</td>
    </tr>
@@ -123,7 +123,7 @@
      <td>108</td>
     <td>shish pal </td>	 
 	 <td>8745349898</td>
-     <td>362222</td>
+    
      <td>9630027000</td>
      <td>khyati02@gmail.com</td>
    </tr>
@@ -136,7 +136,7 @@
      <td>109</td>
     <td>Girish bhai </td>	 
 	 <td>8523649898</td>
-     <td>362652</td>
+     
      <td>6530027000</td>
      <td>dhara04@gmail.com</td>
    </tr>
@@ -149,7 +149,7 @@
      <td>110</td>
     <td>Suresh bhai</td>	 
 	 <td>8573349898</td>
-     <td>363333</td>
+     
      <td>9630089000</td>
      <td>jahanvi06@gmail.com</td>
    </tr>   
